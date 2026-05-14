@@ -1,7 +1,6 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Suvhadip Guharoy
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **guharoysuvhadip@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** https://mulleys-menu-hub--suvhadipguharoy.replit.app
 - 🌱 **I’m currently learning:** python and web development 
