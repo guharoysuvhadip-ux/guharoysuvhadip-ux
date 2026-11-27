@@ -2,8 +2,8 @@
 
 Email Me 👉 ✉️ **guharoysuvhadip@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** https://spice-route-caf-386674432084.asia-southeast1.run.app
-- 🌱 **I’m currently learning:** python and web development 
+- 🔭 **I’m currently working on:** https://github.com/guharoysuvhadip-ux/Spam_Email_Cleaned_Data
+- 🌱 **I’m currently learning:** python, web development and Data Analytics 
 - 📫 **How to reach me:** guharoysuvhadip@gmail.com
 - 😄 **Pronouns:** Suvhadip Guharoy 
 - ⚡ **Fun fact:** I Love Code and Code Love Me
